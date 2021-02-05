@@ -1,2 +1,3 @@
-# html-test
-Created with CodeSandbox
+# html-css-booleaner
+
+Primo esercizio con CSS

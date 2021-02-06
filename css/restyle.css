@@ -1,0 +1,122 @@
+/* Reset */
+* {
+  margin: 0;
+}
+/*  stop Reset */
+
+/* Body */
+body {
+  background-color: rgb(221, 221, 221);
+}
+/* stop Body */
+
+/* Header */
+
+.logo {
+  height: 50px;
+  margin-top: 20px;
+  margin-left: 200px;
+}
+
+/*  stop Header */
+
+/* Main */
+
+main {
+  margin-left: 200px;
+}
+main h1 {
+  color: rgb(204, 113, 71);
+}
+
+.author {
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+.author span {
+  font-size: 25px;
+  color: rgb(114, 109, 107);
+}
+
+.photo {
+  height: 2px;
+}
+
+.photo-text {
+  color: white;
+  margin-left: 550px;
+  width: 300px;
+}
+
+.hightlight {
+  background-color: yellow;
+}
+
+main .text {
+  margin-left: 1015px;
+  margin-right: 200px;
+  margin-bottom: 10px;
+}
+
+.list {
+  margin-left: 1015px;
+  margin-bottom: 150px;
+  margin-right: 200px;
+}
+
+table {
+  border-spacing: 0;
+  margin-right: 200px;
+  margin-bottom: 30px;
+}
+
+thead {
+  background-color: blueviolet;
+  color: white;
+  font-size: 20px;
+  text-align: left;
+}
+
+.table-text {
+  width: 50%;
+}
+tbody {
+  background-color: lightblue;
+}
+
+.odd {
+  background-color: white;
+}
+
+/* stop Main */
+
+/* Footer */
+footer {
+  margin-left: 200px;
+}
+
+footer strong {
+  color: rgb(230, 92, 92);
+  font-size: 25px;
+}
+
+.footer-image {
+  height: 150px;
+  width: 400px;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 20px;
+}
+
+#image-monitor {
+  background-image: url("../img/monitor.jpg");
+}
+
+#image-graph {
+  background-image: url("../img/graph.jpg");
+  margin-bottom: 50px;
+}
+/* Stop Footer */

@@ -86,3 +86,30 @@ tbody {
   background-color: white;
 }
 /* Stop Main */
+
+/* Footer */
+
+footer strong {
+  color: gray;
+  font-size: 25px;
+}
+
+.footer-image {
+  margin-top: 10px;
+  width: 350px;
+  height: 300px;
+  color: white;
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#image-monitor {
+  background-image: url("../img/monitor.jpg");
+}
+
+#image-graph {
+  background-image: url("../img/graph.jpg");
+  margin-bottom: 50px;
+}
+/* Stop Footer */

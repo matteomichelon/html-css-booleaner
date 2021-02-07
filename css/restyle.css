@@ -72,7 +72,7 @@ table {
 }
 
 thead {
-  background-color: blueviolet;
+  background-color: rgb(180, 147, 211);
   color: white;
   font-size: 20px;
   text-align: left;
@@ -82,33 +82,41 @@ thead {
   width: 50%;
 }
 tbody {
-  background-color: lightblue;
+  background-color: rgb(206, 106, 106);
+  background-size: 20%;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .odd {
-  background-color: white;
+  color: rgb(107, 87, 87);
+  background-color: whitesmoke;
 }
 
 /* stop Main */
 
 /* Footer */
 footer {
-  margin-left: 200px;
+  margin-left: 2000px;
+  margin-right: 200px;
 }
 
 footer strong {
-  color: rgb(230, 92, 92);
+  color: rgb(39, 37, 37);
   font-size: 25px;
+  background-image: url("../img/pattern.png");
 }
 
 .footer-image {
   height: 150px;
-  width: 400px;
+  width: 300px;
   color: white;
-  font-size: 35px;
+  font-size: 25px;
+  font-style: italic;
   font-weight: bold;
-  text-align: left;
+  text-align: right;
   margin-top: 20px;
+  background-size: 30%;
 }
 
 #image-monitor {
@@ -118,5 +126,6 @@ footer strong {
 #image-graph {
   background-image: url("../img/graph.jpg");
   margin-bottom: 50px;
+  height: 100px;
 }
 /* Stop Footer */
